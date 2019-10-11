@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hiiii i was chenged veru much likelrrr!
+          Hiiii i was chenged veru much!!!
         </a>
       </header>
     </div>
